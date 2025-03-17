@@ -142,6 +142,11 @@
   "item.tconstruct.hepatizon_ingot": "黑色科林斯青铜锭",
   "item.tconstruct.hepatizon_nugget": "黑色科林斯青铜粒",
 
+  "block.tconstruct.cinderslime_block": "余烬史莱姆块",
+  "block.tconstruct.cinderslime_block.tooltip": "可用于建造信标基座",
+  "item.tconstruct.cinderslime_ingot": "余烬史莱姆锭",
+  "item.tconstruct.cinderslime_nugget": "余烬史莱姆粒",
+
   "block.tconstruct.queens_slime_block": "皇后史莱姆块",
   "block.tconstruct.queens_slime_block.tooltip": "可用于建造信标基座",
   "item.tconstruct.queens_slime_ingot": "皇后史莱姆锭",
@@ -1666,6 +1671,10 @@
   "material.tconstruct.queens_slime": "皇后史莱姆",
   "material.tconstruct.queens_slime.flavor": "公主都不是什么善茬，去找个皇后吧。",
   "material.tconstruct.queens_slime.encyclopedia": "每级耐久度-15%，并将其中的66%转化为黏液覆层",
+
+  "material.tconstruct.cinderslime": "余烬史莱姆",
+  "material.tconstruct.cinderslime.flavor": "如同华丽的烈焰，与那耀眼的日光一样。",
+  "material.tconstruct.cinderslime.encyclopedia": "消耗燃料以回复粘液覆层，在4级时每秒回复1点粘液",
 
   "material.tconstruct.blazing_bone": "烈焰之骨",
   "material.tconstruct.blazing_bone.flavor": "获取下界要塞的所有力量——烈焰之力与骨之力",
