@@ -536,6 +536,12 @@
   "item.tconstruct.sky_slime_bucket": "碧空黏液桶",
   "item.tconstruct.sky_slime_bottle": "碧空黏液瓶",
 
+  "block.tconstruct.ichor_fluid": "灵浆",
+  "fluid.tconstruct.ichor": "灵浆",
+  "fluid.tconstruct.flowing_ichor": "流动的灵浆",
+  "item.tconstruct.ichor_bucket": "灵浆桶",
+  "item.tconstruct.ichor_bottle": "灵浆瓶",
+
   "block.tconstruct.magma_fluid": "岩浆",
   "fluid.tconstruct.magma": "岩浆",
   "fluid.tconstruct.flowing_magma": "流动的岩浆",
