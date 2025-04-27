@@ -1116,5 +1116,6 @@
     "gui.jei.category.item_mixing": "物品混合",
     "gui.jei.category.plant_picking": "收割作物",
     "gui.jei.category.plant_picking_tooltip": "右键单击以像浆果一样采摘",
-    "itemGroup.hexereiModTab": "魔法巫师"
+    "itemGroup.hexereiModTab": "魔法巫师",
+    "sound.herexel.owl_hoot":"猫头鹰：咕咕叫"
 }
