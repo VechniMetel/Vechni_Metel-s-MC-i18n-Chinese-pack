@@ -1,6 +1,9 @@
 {
   "_comment": "Tinkers Common",
 
+  "block.tconstruct.copper_gauge":"铜测量镜",
+  "block.tconstruct.obsidian_gauge":"黑曜石测量镜",
+
   "block.tconstruct.sky_slime": "碧空黏液块",
   "block.tconstruct.sky_slime.tooltip": "可与黏液块和蜂蜜块相黏",
   "block.tconstruct.ichor_slime": "灵浆块",
@@ -225,6 +228,9 @@
   "block.tconstruct.large_ender_slime_crystal_bud": "大型末影黏液晶芽",
   "block.tconstruct.ender_slime_crystal_cluster": "末影黏液水晶簇",
   "block.tconstruct.budding_ender_slime_crystal": "末影黏液水晶母岩",
+
+  "item.tconstruct.copper_gauge":"铜测量镜",
+  "item.tconstruct.obsidian_gauge":"黑曜石测量镜",
 
   "item.tconstruct.emerald_reinforcement": "绿宝石加固板",
   "item.tconstruct.emerald_reinforcement.tooltip": "降低工具消耗耐久度的概率",
@@ -1566,6 +1572,11 @@
   "material.tconstruct.vine.flavor": "朝气蓬勃，不像那死气沉沉的社交网络。",
   "material.tconstruct.vine.encyclopedia": "在太阳光完全照射的情况下，工具最高有75%的概率在使用时不消耗耐久度",
 
+  "material.tconstruct.twisting_vine": "缠怨藤",
+  "material.tconstruct.twisting_vine.encyclopedia": "以放下工具时扣除1点血量的代价换取15%的额外拉弓速度与挖掘速度",
+  
+  "material.tconstruct.weeping_vine": "垂泪藤",
+  "material.tconstruct.weeping_vine.encyclopedia": "在炎热环境中有1.25攻击力与0.75拉弓力量加成，在寒冷环境则正好相反",
 
   "__comment": "Tier 2 Materials",
   "material.tconstruct.iron": "铁",
